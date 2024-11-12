@@ -5,7 +5,9 @@ This is an implementation of the application layer for the [Trading Exchange Col
 
 It constitutes a Node/Express (or Nest.js - to be decided - Marius?) API providing individual ticker prices and a list of all ticker prices, potentially with options for filtering.
 
-See [Application Layer Interface Agreements](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#application-layer) for specification of the interface that this should provide.
+See [Application Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#application-layer) for more about the system layer that this project implements.
+
+See [Application Layer Interface Agreements](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#application-layer-interface) for specification of the interface that this should provide.
 
 ## Contributions
 

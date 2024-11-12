@@ -9,6 +9,14 @@ See [Application Layer](https://github.com/pecknigel/trading-exchange-collaborat
 
 See [Application Layer Interface Agreements](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#application-layer-interface) for specification of the interface that this should provide.
 
+## What’s all this about?
+
+It’s all part of a collaborative project for learning web development and software engineering. All backed by a highly experienced teacher who has stepped away after twenty years in software development to concentrate on teaching.
+
+Mentoring is available as needed, seven days a week.
+
+See the links at the top for more info.
+
 ## Contributions
 
 Contributions are welcome. ~~See [CONTRIBUTING.md](CONTRIBUTING.md)~~ (currently a stub).

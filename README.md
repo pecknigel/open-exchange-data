@@ -11,11 +11,11 @@ See [Application Layer Interface Agreements](https://github.com/pecknigel/tradin
 
 ## What’s all this about?
 
-It’s all part of a collaborative project for learning web development and software engineering. All backed by a highly experienced teacher who has stepped away after twenty years in software development to concentrate on teaching.
+It’s all part of a [collaborative project](https://github.com/pecknigel/trading-exchange-collaborative-learning) for learning web development and software engineering. All backed by a highly experienced teacher who has stepped away after twenty years in software development to concentrate on teaching.
 
 Mentoring is available as needed, seven days a week.
 
-See the links at the top for more info.
+See [Prescription Free Academy](https://prescriptionfree.academy/).
 
 ## Contributions
 

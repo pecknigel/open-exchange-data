@@ -11,4 +11,4 @@ Contributions are welcome. ~~See [CONTRIBUTING.md](CONTRIBUTING.md)~~ (currently
 
 ## Licensing
 
-This project is under an attribution non-commercial license. See [LICENSE.txt](LICENSE.txt).
+This project is dual licensed. See [LICENSE.txt](LICENSE.txt).

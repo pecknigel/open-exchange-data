@@ -17,6 +17,15 @@ Mentoring is available as needed, seven days a week.
 
 See [Prescription Free Academy](https://prescriptionfree.academy/).
 
+## Project Management and Discussion
+
+We’re looking to keep project management simple and housed on GitHub.
+
+It’s currently the only places for discussion too, at least publicly.
+
+GitHub Issues    
+[Issues · pecknigel/open-exchange-data](https://github.com/pecknigel/open-exchange-data/issues)
+
 ## Contributions
 
 Contributions are welcome. ~~See [CONTRIBUTING.md](CONTRIBUTING.md)~~ (currently a stub).

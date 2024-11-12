@@ -5,6 +5,10 @@ This is an implementation of the application layer for the [Trading Exchange Col
 
 It constitutes a Node/Express (or Nest.js - to be decided - Marius?) API providing individual ticker prices and a list of all ticker prices, potentially with options for filtering.
 
+## Contributions
+
+Contributions are welcome. ~~See [CONTRIBUTING.md](CONTRIBUTING.md)~~ (currently a stub).
+
 ## Licensing
 
 This project is under an attribution non-commercial license. See [LICENSE.txt](LICENSE.txt).

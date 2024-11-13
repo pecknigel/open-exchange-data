@@ -5,17 +5,11 @@ import logger from "morgan";
 import indexRouter from './routes/index.js';
 
 class Server {
-    app = null;
-    port = null;
+    app = express();
+    port = this.#normalizePort(process.env.PORT || '3000');
     instance = null;
 
     constructor() {
-        this.#initialiseServer();
-    }
-
-    #initialiseServer() {
-        this.port = this.#normalizePort(process.env.PORT || '3000');
-        this.app = express();
         this.app
             .set('port', this.port)
             .use(logger('dev'))

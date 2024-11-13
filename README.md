@@ -3,7 +3,7 @@
 
 This is an implementation of the application layer for the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy of Web Development and Software Engineering](https://prescriptionfree.academy/).
 
-It constitutes a Node/Express (or Nest.js - to be decided - Marius?) API providing individual ticker prices and a list of all ticker prices, potentially with options for filtering.
+It constitutes a Node.js API using the Express library. It provides individual ticker prices and a list of all ticker prices, potentially with options for filtering the list.
 
 See [Application Layer](https://github.com/pecknigel/trading-exchange-collaborative-learning?tab=readme-ov-file#application-layer) for more about the system layer that this project implements.
 

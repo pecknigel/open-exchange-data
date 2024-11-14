@@ -15,6 +15,17 @@ See [Prescription Free Academy](https://prescriptionfree.academy/).
 
 ## How to Run the Project
 
+Clone the repository and run `npm install` the dependencies.
+
+```
+git clone git@github.com:pecknigel/open-exchange-data.git
+npm install
+```
+
+Run `npm start` to start the dev server.
+
+### Testing API Routes
+
 There is [a Postman collection](https://www.postman.com/nigelpeck/trading-exchange-collaborative-learning/collection/xr5aub1/open-exchange-data) for the API as it stands.
 
 ## Specification

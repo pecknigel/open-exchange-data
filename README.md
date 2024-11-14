@@ -26,7 +26,7 @@ Run `npm start` to start the dev server.
 
 ### Testing API Routes
 
-There is [a Postman collection](https://www.postman.com/nigelpeck/trading-exchange-collaborative-learning/collection/xr5aub1/open-exchange-data) for the API as it stands.
+There is a [Postman collection](https://www.postman.com/nigelpeck/trading-exchange-collaborative-learning/collection/xr5aub1/open-exchange-data) for the API as it stands.
 
 ## Specification
 

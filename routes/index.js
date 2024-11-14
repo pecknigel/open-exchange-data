@@ -1,10 +1,15 @@
 import express from 'express';
 
-export const router = express.Router();
+const router = express.Router();
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+router.get('/ticker/:tickerId', function(req, res) {
+  const responseData = {tickerId: req.params.tickerId };
+  res.send(responseData);
+});
+
+router.get('/tickers', function(req, res) {
+  const responseData = [{tickerId: 'ALP'}, {tickerId: 'TJU'}];
+  res.send(responseData);
 });
 
 export default router;

@@ -15,7 +15,7 @@ See [Prescription Free Academy](https://prescriptionfree.academy/).
 
 ## How to Run the Project
 
-Clone the repository and run `npm install` the dependencies.
+Clone the repository and install the dependencies.
 
 ```
 git clone git@github.com:pecknigel/open-exchange-data.git

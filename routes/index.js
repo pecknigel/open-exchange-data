@@ -2,13 +2,13 @@ import express from 'express';
 
 const router = express.Router();
 
-router.get('/ticker/:tickerId', function(req, res) {
-  const responseData = {tickerId: req.params.tickerId };
+router.get('/tickers', function(req, res) {
+  const responseData = [{tickerId: 'ALP'}, {tickerId: 'TJU'}];
   res.send(responseData);
 });
 
-router.get('/tickers', function(req, res) {
-  const responseData = [{tickerId: 'ALP'}, {tickerId: 'TJU'}];
+router.get('/ticker/:tickerId', function(req, res) {
+  const responseData = {tickerId: req.params.tickerId };
   res.send(responseData);
 });
 

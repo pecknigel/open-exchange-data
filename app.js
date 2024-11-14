@@ -10,12 +10,21 @@ class Server {
     instance = null;
 
     constructor() {
+        this.#configureApp();
+        this.instance = http.createServer(this.app);
+        this.#configureServer();
+    }
+
+    #configureApp() {
         this.app
             .set('port', this.port)
             .use(logger('dev'))
             .use(express.json())
             .use('/', indexRouter);
-        this.instance =  http.createServer(this.app)
+    }
+
+    #configureServer() {
+        this.instance
             .listen(this.port)
             .on('error', this.#onError.bind(this))
             .on('listening', this.#onListening.bind(this));

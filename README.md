@@ -1,7 +1,7 @@
 
 # Open Exchange Data
 
-This is an implementation of the application layer for the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning) from the [Prescription Free Academy](https://prescriptionfree.academy/) of Web Development and Software Engineering.
+This is an implementation of the application layer for the [Trading Exchange Collaborative Learning Program](https://github.com/pecknigel/trading-exchange-collaborative-learning).
 
 It constitutes a Node.js API using the Express library. It provides individual ticker prices and a list of all ticker prices, potentially with options for filtering the list.
 
@@ -9,7 +9,7 @@ It constitutes a Node.js API using the Express library. It provides individual t
 
 It’s all part of a [collaborative project](https://github.com/pecknigel/trading-exchange-collaborative-learning) for learning web development and software engineering. All backed by an experienced software engineer and teacher who has stepped away after twenty years in software development to concentrate on teaching.
 
-[Mentoring is available](https://prescriptionfree.academy/) as needed, seven days a week.
+[Teaching and mentoring is available](https://preply.com/en/tutor/4217857) as needed, Monday to Saturday.
 
 ## Getting Started
 
